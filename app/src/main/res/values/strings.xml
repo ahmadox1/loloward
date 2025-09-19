@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">LoloWard</string>
     <string name="welcome_message">مرحباً بك في LoloWard!</string>
+    <string name="gallery_title">معرض الصور</string>
+    <string name="app_description">تطبيق يعرض مجموعة منوعة من الصور والحيوانات والأشكال والأشياء</string>
+    <string name="cat_description">صورة قطة</string>
+    <string name="lion_description">صورة أسد</string>
+    <string name="shape_description">شكل هندسي</string>
+    <string name="table_description">طاولة</string>
 </resources>
