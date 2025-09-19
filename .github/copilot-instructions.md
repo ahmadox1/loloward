@@ -123,10 +123,10 @@ $ find . -name "*.jpg" | wc -l && find . -name "*.png" | wc -l && find . -name "
 ### Directory sizes
 ```
 $ du -sh */
-6.3Mimages
-5.2Manimals
-1.1Mobjects
-228Kshapes
+6.3M	images/
+5.2M	animals/
+1.1M	objects/
+228K	shapes/
 ```
 
 ## IMPORTANT NOTES
